@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Ada Lovelace"
+title = "Reproducible Medical Research in R"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -16,9 +16,9 @@ enableEmoji = true
 
 [params]
   # Sets the meta tag description
-  description          = "Ada's blog"
+  description          = "Peter's RMRWR blog"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Ada Lovelace"
+  navbarTitle          = "Peter Higgins"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -90,22 +90,24 @@ enableEmoji = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Ada Lovelace"
+  header    = "Reproducible Medical Research in R"
 
-  paragraph = "Another fine place to share my thoughts"
+  paragraph = "Towards better Science"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Ostende nobis data. Ostende nobis signum."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "https://raw.githubusercontent.com/apreshill/ada-blog/hugo-theme-future-imperfect/static/img/main/ada_square.jpg"
-    # Sets Image to be a cirlce
+    src       = "https://www.brandcrowd.com/gallery/brands/pictures/picture15101525812231.png"
+    # R flask logo https://matthewrenze.com/workshops/practical-data-science-with-r/image.png
+    # tidyverse logo https://www.tidyverse.org/images/hex-tidyverse.png
+    # Sets Image to be a circle
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Ada pic from Wikipedia"
+    alt       = "Medical R logo"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.

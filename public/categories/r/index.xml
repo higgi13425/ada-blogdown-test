@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Ada Lovelace</title>
+    <title>R on Reproducible Medical Research in R</title>
     <link>/categories/r/</link>
-    <description>Recent content in R on Ada Lovelace</description>
+    <description>Recent content in R on Reproducible Medical Research in R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
