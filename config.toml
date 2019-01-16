@@ -146,7 +146,7 @@ enableEmoji = true
   weight = 5
 
 [[menu.main]]
-  name = "Ada Lovelace"
+  name = "Peter Higgins"
   url = "/contact/"
   identifier = "fa fa-address-card-o"
   weight = 6
