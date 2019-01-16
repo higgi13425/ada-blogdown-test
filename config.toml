@@ -133,7 +133,7 @@ enableEmoji = true
   identifier = "fa fa-newspaper-o"
   weight = 3
 
-# [[menu.main]]
+# [[menu.main]] #hide this one
 #  name = "Itemized"
 #  url = "/itemized/"
 #  identifier = "fa fa-list"
