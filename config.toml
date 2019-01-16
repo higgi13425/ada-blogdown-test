@@ -12,12 +12,13 @@ enableRobotsTXT = true
 canonifyURLs = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 relativeURLS = true
+enableEmoji = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Ada's blog"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "Ada Lovelace"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -75,7 +76,7 @@ relativeURLS = true
 # due to its ease of use. Feel free to check out both and decide what you would
 # prefer to use. See Staticman.yml for additional settings.
 [params.staticman]
-  # Sets Statiman to be active
+  # Sets Staticman to be active
   staticman = false
   # Sets the location for Staticman to connect to
   username  = ""
@@ -89,22 +90,22 @@ relativeURLS = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hugo Future Imperfect"
+  header    = "Ada Lovelace"
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "Another fine place to share my thoughts"
 
   about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/logo.jpg"
+    src       = "https://raw.githubusercontent.com/apreshill/ada-blog/hugo-theme-future-imperfect/static/img/main/ada_square.jpg"
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "Ada pic from Wikipedia"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
@@ -143,9 +144,9 @@ relativeURLS = true
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "Ada Lovelace"
   url = "/contact/"
-  identifier = "fa fa-envelope-o"
+  identifier = "fa fa-address-card-o"
   weight = 6
 
 # Sets Social Media icons to appear and link to your account. Value should be your
@@ -161,22 +162,22 @@ relativeURLS = true
   codepen          = ""
   # Visual Art Communities
   deviantart       = ""
-  flickr           = "example"
+  flickr           = ""
   behance          = ""
   dribbble         = ""
   # Publishing Communities
   wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
-  linkedin_company = "examplebusiness"
+  linkedin         = "peter-higgins-b1a21a30"
+  linkedin_company = ""
   foursquare       = ""
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  facebook         = ""
   googleplus       = ""
-  reddit           = "example"
+  reddit           = ""
   quora            = ""
   youtube          = ""
   vimeo            = ""
@@ -184,16 +185,16 @@ relativeURLS = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "example"
+  instagram        = ""
   tumblr           = ""
-  twitter          = "example"
+  twitter          = "@ibddoctor"
   skype            = ""
   snapchat         = ""
-  pinterest        = "example"
-  telegram         = "example"
+  pinterest        = ""
+  telegram         = ""
   vine             = ""
-  googlescholar    = ""
+  googlescholar    = "UGJGFaAAAAAJ"
   orcid            = ""
-  researchgate     = "example"
+  researchgate     = ""
   # Email
   email            = "example"

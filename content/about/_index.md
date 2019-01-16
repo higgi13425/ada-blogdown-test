@@ -1,17 +1,14 @@
 ---
 date: "2014-04-09"
-title: About Hugo
+title: About Peter Higgins
 ---
 
-Hugo is a static site engine written in Go.
+Peter is a physician-scientist
 
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* [Google Scholar](https://scholar.google.com/citations?user=UGJGFaAAAAAJ&hl=en)
+* [University of Michigan](https://www.uofmhealth.org/profile/4/peter-doyle-higgins-md-phd)
+* [Lab Website](http://www.med.umich.edu/higginslab/)
+* [UM IBD Website](http://www.med.umich.edu/ibd/)
 
 Learn more and contribute on [GitHub](https://github.com/spf13).
 
